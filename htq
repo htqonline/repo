@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0,VTV1 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:0,VTV3 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+#EXTINF:0,VTV5 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+#EXTINF:0,VTV6 (HD 720p)
+https://live.vtvdigital.vn/hls/1d55078c86350e386ee20870e6b85523/1543726053797/live/_definst_/vtv6-high.m3u8
+#EXTINF:0,VTV6 (SD 480p) (Dự phòng)
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+#EXTINF:0,VTC3 (HD 720p)
+http://hplusliveall.e96bbe18.sabai.vn/cdcab5347066568113067c5c0f03a6be1543752957/vtc3-720/chunklist.m3u8
+#EXTINF:0,VTC3 (FPT Play - HD 720p) (only PotPlayer)
+https://livecdn.fptplay.net/hdevent/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV THE THAO (Full HD 1080p)
+http://hplusliveall.e96bbe18.sabai.vn/49a261d080dc0d4125680694bb3182061543747428/htvthethao-1080/chunklist.m3u8
+#EXTINF:0,K+NS (HD 720p)
+http://sm.tvmienphi.net/VN-K+NS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,VTC9 (SD 360p)
+http://ip.xemtivimienphi.net/VN-VTC9/tracks-v1a1/mono.m3u8
+#EXTINF:0,VTC1 (SD 360p)
+http://ip.xemtivimienphi.net/VN-VTC1/tracks-v1a1/mono.m3u8
+#EXTINF:0,FOX SPORTS (HD 720p)
+http://hplusliveall.e96bbe18.sabai.vn/75f9a4e099c1dce8ab44b446e514503a1543749257/foxsports1-720/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 2 (SD 360p)
+http://ip.xemtivimienphi.net/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:0,HTV7 (Full HD 1080p)
+http://hplusliveall.e96bbe18.sabai.vn/18feff13efc3fad39a56d8c8c6e4f2691543749411/htv7-1080/chunklist.m3u8
+#EXTINF:0,HTV9 (Full HD 1080p)
+http://hplusliveall.e96bbe18.sabai.vn/d61d3e1a92f197978c31e33b1bf960871543749459/htv9-1080/chunklist.m3u8
+#EXTINF:0,HTV2 - Vie Channel (Full HD 1080p)
+http://hplusliveall.e96bbe18.sabai.vn/cd1ef58a31b5e0a42cbaacd843c724dd1543751181/htv2-720/chunklist.m3u8
+#EXTINF:0,HTVC CA NHAC (SD 360p)
+http://ip.xemtivimienphi.net/VN-HTVC-CA-NHAC/tracks-v1a1/mono.m3u8
+#EXTINF:0,iTV - SCTV20 (HD 720p)
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist_w243163417.m3u8
+#EXTINF:0,SCTV1 (SD 576p)
+https://live.tivi12h.net/live/vchannel7_low.m3u8
